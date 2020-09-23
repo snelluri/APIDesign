@@ -10,3 +10,5 @@
 [Person to work with is James Beswick](https://aws.amazon.com/blogs/compute/author/jbeswick/)
 
 [Creating low-latency, high-volume APIs with Provisioned Concurrency](https://aws.amazon.com/blogs/compute/creating-low-latency-high-volume-apis-with-provisioned-concurrency/)
+
+[B2BIntegrations on AWS with event driven architecture](https://aws.amazon.com/blogs/compute/integrating-b2b-using-event-notifications-with-amazon-sns/)
